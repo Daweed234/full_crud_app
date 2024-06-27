@@ -1,6 +1,6 @@
-# Task Manager Application
+# Crud-Application
 
-## Overview
+## Introduction
 This is a full-stack CRUD application built with Node.js, Express, MySQL for the backend, and React for the frontend. The application uses HTML and Tailwind CSS for styling.
 
 ## Prerequisites
@@ -12,7 +12,7 @@ This is a full-stack CRUD application built with Node.js, Express, MySQL for the
 ### Backend
 1. Navigate to the backend directory:
     ```bash
-    cd task-manager/backend
+    cd backend
     ```
 2. Install dependencies:
     ```bash
@@ -27,7 +27,7 @@ This is a full-stack CRUD application built with Node.js, Express, MySQL for the
 ### Frontend
 1. Navigate to the frontend directory:
     ```bash
-    cd task-manager-frontend
+    cd frontend
     ```
 2. Install dependencies:
     ```bash
@@ -40,7 +40,7 @@ This is a full-stack CRUD application built with Node.js, Express, MySQL for the
 
 ## Usage
 - Navigate to `http://localhost:3000` to use the application.
-- You can view, add, edit, and delete tasks.
-
-## License
-This project is licensed under the MIT License.
+- You can view tasks,
+- add tasks,
+- edit tasks,
+- delete tasks.
