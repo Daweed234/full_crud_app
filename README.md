@@ -3,10 +3,6 @@
 ## Introduction
 This is a full-stack CRUD application built with Node.js, Express, MySQL for the backend, and React for the frontend. The application uses HTML and Tailwind CSS for styling.
 
-## Prerequisites
-- Node.js
-- MySQL
-
 ## Setup
 
 ### Backend
